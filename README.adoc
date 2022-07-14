@@ -1,0 +1,11 @@
+== inkscape-export-dialog
+
+Export Dialog Design for Inkscape
+
+Suggestion for export dialog design following discussion on Martin Owens' Inkscape development log<<vlog>> on YouTube.
+
+Reasoning: File formats determine export settings.
+For example, when exporting a PDF file you might want to have mutliple pages in a single file,
+but when you're exporting a PNG you likely want each area to be exported to a separate file.
+
+[[vlog,1]] 1: https://www.youtube.com/watch?v=Es7UzkyvHwg[Collation, Er, Design - Developer Update for 9th July 2022]
